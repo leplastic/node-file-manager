@@ -1,5 +1,6 @@
 # Screen Shot
-![screenshot](https://raw.githubusercontent.com/efeiefei/node-file-manager/master/example/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/leplastic/node-file-manager/master/example/screenshot.png)
+*(interface adapted from [nayed/web-explorer](https://github.com/nayed/web-explorer))*
 
 # Usage
 
